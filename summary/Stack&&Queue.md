@@ -7,7 +7,7 @@
 ![ì¤íì ëí ì´ë¯¸ì§ ê²ìê²°ê³¼](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/300px-Data_stack.svg.png)
 
 - 스택은 한 쪽 끝에서만 자료를 넣거나 뺄 수 있는 **선형구조(LIFO - Last In First Out)** 으로 되어 있다.
-- 자료를 넣는 것을 **푸시(push)**라고 하고 반대로 넣어둔 자료를 꺼내는 것을 **팝(pop)** 이라고 한다.
+- 자료를 넣는 것을 **푸시(push)** 라고 하고 반대로 넣어둔 자료를 꺼내는 것을 **팝(pop)** 이라고 한다.
 - 이때 꺼내지는 자료는 가장 최근에 보관한 자료부터 나오게 된다. 이를 LIFO 구조라고 한다.
 
 

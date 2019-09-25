@@ -34,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.13_testing_numpy_speed">
+  <component name="RunManager" selected="Python.1_count_unique_words">
     <configuration name="10_finding_prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PART1-헬로,자료구조!" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9_find_fibonacci_by_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1_count_unique_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PART1-헬로,자료구조!" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +131,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER01-숫자" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER01-숫자/9_find_fibonacci_by_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입/1_count_unique_words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1_count_unique_words" />
         <item itemvalue="Python.13_testing_numpy_speed" />
         <item itemvalue="Python.12_testing_numpy" />
         <item itemvalue="Python.11_generate_prime" />
         <item itemvalue="Python.10_finding_prime" />
-        <item itemvalue="Python.9_find_fibonacci_by_generator" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569157554057</updated>
-      <workItem from="1569157555164" duration="4972000" />
+      <workItem from="1569157555164" duration="5523000" />
+      <workItem from="1569389481788" duration="1560000" />
     </task>
     <servers />
   </component>
@@ -174,7 +175,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PART1___$12_testing_numpy.coverage" NAME="12_testing_numpy Coverage Results" MODIFIED="1569163215051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
-    <SUITE FILE_PATH="coverage/PART1___$13_testing_numpy_speed.coverage" NAME="13_testing_numpy_speed Coverage Results" MODIFIED="1569163345216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
+    <SUITE FILE_PATH="coverage/PART1___$13_testing_numpy_speed.coverage" NAME="13_testing_numpy_speed Coverage Results" MODIFIED="1569391659828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$6_finding_gcd.coverage" NAME="6_finding_gcd Coverage Results" MODIFIED="1569158017260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$11_generate_prime.coverage" NAME="11_generate_prime Coverage Results" MODIFIED="1569162738789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$5_convert_to_any_base_rec.coverage" NAME="5_convert_to_any_base_rec Coverage Results" MODIFIED="1569157912740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
@@ -182,5 +183,6 @@
     <SUITE FILE_PATH="coverage/PART1___$7_testing_random.coverage" NAME="7_testing_random Coverage Results" MODIFIED="1569158078909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$4_convert_from_decimal_larger_bases.coverage" NAME="4_convert_from_decimal_larger_bases Coverage Results" MODIFIED="1569157785651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$9_find_fibonacci_by_generator.coverage" NAME="9_find_fibonacci_by_generator Coverage Results" MODIFIED="1569159945530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
+    <SUITE FILE_PATH="coverage/PART1___$1_count_unique_words.coverage" NAME="1_count_unique_words Coverage Results" MODIFIED="1569394026789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
   </component>
 </project>

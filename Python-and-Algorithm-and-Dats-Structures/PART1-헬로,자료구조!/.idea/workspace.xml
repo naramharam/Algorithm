@@ -34,74 +34,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2_runtime_lists_with_timeit_module">
-    <configuration name="11_generate_prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PART1-헬로,자료구조!" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER01-숫자" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER01-숫자/11_generate_prime.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="12_testing_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PART1-헬로,자료구조!" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER01-숫자" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER01-숫자/12_testing_numpy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="13_testing_numpy_speed" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PART1-헬로,자료구조!" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER01-숫자" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER01-숫자/13_testing_numpy_speed.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1_count_unique_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.11_palindrome">
+    <configuration name="10_combiantion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PART1-헬로,자료구조!" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +48,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입/1_count_unique_words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입/10_combiantion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_runtime_lists_with_timeit_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PART1-헬로,자료구조!" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +70,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입/2_runtime_lists_with_timeit_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입/11_palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4_reversing_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PART1-헬로,자료구조!" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입/4_reversing_words.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8_simple_str_comression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PART1-헬로,자료구조!" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입/8_simple_str_comression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9_permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PART1-헬로,자료구조!" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입/9_permutation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2_runtime_lists_with_timeit_module" />
-        <item itemvalue="Python.1_count_unique_words" />
-        <item itemvalue="Python.13_testing_numpy_speed" />
-        <item itemvalue="Python.12_testing_numpy" />
-        <item itemvalue="Python.11_generate_prime" />
+        <item itemvalue="Python.11_palindrome" />
+        <item itemvalue="Python.10_combiantion" />
+        <item itemvalue="Python.9_permutation" />
+        <item itemvalue="Python.8_simple_str_comression" />
+        <item itemvalue="Python.4_reversing_words" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569157554057</updated>
       <workItem from="1569157555164" duration="5523000" />
-      <workItem from="1569389481788" duration="3846000" />
+      <workItem from="1569389481788" duration="8840000" />
     </task>
     <servers />
   </component>
@@ -174,14 +174,20 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PART1___$9_permutation.coverage" NAME="9_permutation Coverage Results" MODIFIED="1569667985703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
+    <SUITE FILE_PATH="coverage/PART1___$2_runtime_lists_with_timeit_module.coverage" NAME="2_runtime_lists_with_timeit_module Coverage Results" MODIFIED="1569496243663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
+    <SUITE FILE_PATH="coverage/PART1___$10_finding_prime.coverage" NAME="10_finding_prime Coverage Results" MODIFIED="1569161067595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
+    <SUITE FILE_PATH="coverage/PART1___$7_testing_random.coverage" NAME="7_testing_random Coverage Results" MODIFIED="1569158078909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
+    <SUITE FILE_PATH="coverage/PART1___$3_reversing_string.coverage" NAME="3_reversing_string Coverage Results" MODIFIED="1569665059634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
+    <SUITE FILE_PATH="coverage/PART1___$10_combiantion.coverage" NAME="10_combiantion Coverage Results" MODIFIED="1569668081789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
     <SUITE FILE_PATH="coverage/PART1___$12_testing_numpy.coverage" NAME="12_testing_numpy Coverage Results" MODIFIED="1569163215051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$13_testing_numpy_speed.coverage" NAME="13_testing_numpy_speed Coverage Results" MODIFIED="1569391659828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$6_finding_gcd.coverage" NAME="6_finding_gcd Coverage Results" MODIFIED="1569158017260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$11_generate_prime.coverage" NAME="11_generate_prime Coverage Results" MODIFIED="1569162738789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
-    <SUITE FILE_PATH="coverage/PART1___$2_runtime_lists_with_timeit_module.coverage" NAME="2_runtime_lists_with_timeit_module Coverage Results" MODIFIED="1569496243663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
+    <SUITE FILE_PATH="coverage/PART1___$8_simple_str_comression.coverage" NAME="8_simple_str_comression Coverage Results" MODIFIED="1569667629130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
+    <SUITE FILE_PATH="coverage/PART1___$11_palindrome.coverage" NAME="11_palindrome Coverage Results" MODIFIED="1569668551042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
     <SUITE FILE_PATH="coverage/PART1___$5_convert_to_any_base_rec.coverage" NAME="5_convert_to_any_base_rec Coverage Results" MODIFIED="1569157912740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
-    <SUITE FILE_PATH="coverage/PART1___$10_finding_prime.coverage" NAME="10_finding_prime Coverage Results" MODIFIED="1569161067595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
-    <SUITE FILE_PATH="coverage/PART1___$7_testing_random.coverage" NAME="7_testing_random Coverage Results" MODIFIED="1569158078909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
+    <SUITE FILE_PATH="coverage/PART1___$4_reversing_words.coverage" NAME="4_reversing_words Coverage Results" MODIFIED="1569665658454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
     <SUITE FILE_PATH="coverage/PART1___$4_convert_from_decimal_larger_bases.coverage" NAME="4_convert_from_decimal_larger_bases Coverage Results" MODIFIED="1569157785651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$9_find_fibonacci_by_generator.coverage" NAME="9_find_fibonacci_by_generator Coverage Results" MODIFIED="1569159945530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$1_count_unique_words.coverage" NAME="1_count_unique_words Coverage Results" MODIFIED="1569394026789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />

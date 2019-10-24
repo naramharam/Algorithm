@@ -1,20 +1,20 @@
 def usual_dict(dict_data):
     #dict[key] 사용
-    newdata = {}
+    new_data = {}
     for k, v in dict_data:
-        if k in newdata:
-            newdata[k].append(v)
+        if k in new_data:
+            new_data[k].append(v)
         else:
-            newdata[k] = [v]
-    return newdata
+            new_data[k] = [v]
+    return new_data
 
 
 def setdefault_dict(dict_data):
     #setdefault()메서드 사용
-    newdata = {}
+    new_data = {}
     for k, v in dict_data:
-        newdata.setdefault(k, []).append(v)
-    return newdata
+        new_data.setdefault(k, []).append(v)
+    return new_data
 
 
 def test_setdef():

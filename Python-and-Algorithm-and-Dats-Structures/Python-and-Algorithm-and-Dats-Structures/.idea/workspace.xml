@@ -18,7 +18,7 @@
   <component name="ProjectId" id="1SdaxfgNjjTnqzM8Inq2jPocERD" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../School/python" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -34,8 +34,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9_is_anagram">
-    <configuration name="5_defaultdict_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10_is_anagram_using_ord">
+    <configuration name="10_is_anagram_using_ord" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-and-Algorithm-and-Dats-Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +48,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PART1-헬로,자료구조!/CHAPTER03-컬렉션자료구조/5_defaultdict_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PART1-헬로,자료구조!/CHAPTER03-컬렉션자료구조/10_is_anagram_using_ord.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10_is_anagram_using_ord" />
         <item itemvalue="Python.9_is_anagram" />
         <item itemvalue="Python.8_find_top_N_recurring_words" />
         <item itemvalue="Python.7_counterDict_example" />
         <item itemvalue="Python.6_orderDict_example" />
-        <item itemvalue="Python.5_defaultdict_example" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571896174140</updated>
-      <workItem from="1571896175517" duration="4813000" />
+      <workItem from="1571896175517" duration="6128000" />
     </task>
     <servers />
   </component>
@@ -176,6 +176,7 @@
     <SUITE FILE_PATH="coverage/Python_and_Algorithm_and_Dats_Structures$4_runtime_dicts_with_timeit_module.coverage" NAME="4_runtime_dicts_with_timeit_module Coverage Results" MODIFIED="1571897613676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PART1-헬로,자료구조!/CHAPTER03-컬렉션자료구조" />
     <SUITE FILE_PATH="coverage/Python_and_Algorithm_and_Dats_Structures$6_orderDict_example.coverage" NAME="6_orderDict_example Coverage Results" MODIFIED="1571899068932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PART1-헬로,자료구조!/CHAPTER03-컬렉션자료구조" />
     <SUITE FILE_PATH="coverage/Python_and_Algorithm_and_Dats_Structures$8_find_top_N_recurring_words.coverage" NAME="8_find_top_N_recurring_words Coverage Results" MODIFIED="1571901266787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PART1-헬로,자료구조!/CHAPTER03-컬렉션자료구조" />
+    <SUITE FILE_PATH="coverage/Python_and_Algorithm_and_Dats_Structures$10_is_anagram_using_ord.coverage" NAME="10_is_anagram_using_ord Coverage Results" MODIFIED="1571983098817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PART1-헬로,자료구조!/CHAPTER03-컬렉션자료구조" />
     <SUITE FILE_PATH="coverage/Python_and_Algorithm_and_Dats_Structures$3_setdefault_example.coverage" NAME="3_setdefault_example Coverage Results" MODIFIED="1571896352144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PART1-헬로,자료구조!/CHAPTER03-컬렉션자료구조" />
     <SUITE FILE_PATH="coverage/Python_and_Algorithm_and_Dats_Structures$9_is_anagram.coverage" NAME="9_is_anagram Coverage Results" MODIFIED="1571903247069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PART1-헬로,자료구조!/CHAPTER03-컬렉션자료구조" />
     <SUITE FILE_PATH="coverage/Python_and_Algorithm_and_Dats_Structures$5_defaultdict_example.coverage" NAME="5_defaultdict_example Coverage Results" MODIFIED="1571897881116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PART1-헬로,자료구조!/CHAPTER03-컬렉션자료구조" />

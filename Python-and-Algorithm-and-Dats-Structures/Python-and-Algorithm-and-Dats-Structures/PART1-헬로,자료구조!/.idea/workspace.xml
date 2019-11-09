@@ -21,6 +21,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -34,8 +35,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6_observer_pattern_with_set">
-    <configuration name="2_hash_and_and_eq_NO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3_threading_semaphore">
+    <configuration name="01_threading_with_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PART1-헬로,자료구조!" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -43,12 +44,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER05-객체지향 설계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER06-파이썬고급주제" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER05-객체지향 설계/2_hash_and_and_eq_NO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER06-파이썬고급주제/01_threading_with_queue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_hash_and_eq_OK" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_threading_mutex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PART1-헬로,자료구조!" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,12 +66,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER05-객체지향 설계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER06-파이썬고급주제" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER05-객체지향 설계/3_hash_and_eq_OK.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER06-파이썬고급주제/2_threading_mutex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_benchmark_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_threading_semaphore" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PART1-헬로,자료구조!" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,34 +88,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER05-객체지향 설계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER06-파이썬고급주제" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER05-객체지향 설계/4_benchmark_decorator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5_class_and_static_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PART1-헬로,자료구조!" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER05-객체지향 설계" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER05-객체지향 설계/5_class_and_static_decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER06-파이썬고급주제/3_threading_semaphore.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,13 +124,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="7_observer_pattern_with_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PART1-헬로,자료구조!" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CHAPTER05-객체지향 설계" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHAPTER05-객체지향 설계/7_observer_pattern_with_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3_threading_semaphore" />
+        <item itemvalue="Python.2_threading_mutex" />
+        <item itemvalue="Python.01_threading_with_queue" />
+        <item itemvalue="Python.7_observer_pattern_with_dict" />
         <item itemvalue="Python.6_observer_pattern_with_set" />
-        <item itemvalue="Python.5_class_and_static_decorator" />
-        <item itemvalue="Python.4_benchmark_decorator" />
-        <item itemvalue="Python.3_hash_and_eq_OK" />
-        <item itemvalue="Python.2_hash_and_and_eq_NO" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +169,9 @@
       <workItem from="1569157555164" duration="5523000" />
       <workItem from="1569389481788" duration="9114000" />
       <workItem from="1569757796069" duration="3443000" />
-      <workItem from="1572420915359" duration="7468000" />
+      <workItem from="1572420915359" duration="7775000" />
+      <workItem from="1573107030053" duration="2092000" />
+      <workItem from="1573296488383" duration="2828000" />
     </task>
     <servers />
   </component>
@@ -190,17 +193,21 @@
     <SUITE FILE_PATH="coverage/PART1___$4_reversing_words.coverage" NAME="4_reversing_words Coverage Results" MODIFIED="1569665658454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
     <SUITE FILE_PATH="coverage/PART1___$1_set_operations_with_list.coverage" NAME="1_set_operations_with_list Coverage Results" MODIFIED="1569759591382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER03-컬렉션자료구조" />
     <SUITE FILE_PATH="coverage/PART1___$3_hash_and_eq_OK.coverage" NAME="3_hash_and_eq_OK Coverage Results" MODIFIED="1572428827901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER05-객체지향 설계" />
+    <SUITE FILE_PATH="coverage/PART1___$2_threading_mutex.coverage" NAME="2_threading_mutex Coverage Results" MODIFIED="1573301446615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER06-파이썬고급주제" />
     <SUITE FILE_PATH="coverage/PART1___$4_convert_from_decimal_larger_bases.coverage" NAME="4_convert_from_decimal_larger_bases Coverage Results" MODIFIED="1569157785651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$4_remove_blank_lines.coverage" NAME="4_remove_blank_lines Coverage Results" MODIFIED="1572422473972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER04-구조와모듈" />
     <SUITE FILE_PATH="coverage/PART1___$9_find_fibonacci_by_generator.coverage" NAME="9_find_fibonacci_by_generator Coverage Results" MODIFIED="1569159945530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
     <SUITE FILE_PATH="coverage/PART1___$1_count_unique_words.coverage" NAME="1_count_unique_words Coverage Results" MODIFIED="1569394026789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
     <SUITE FILE_PATH="coverage/PART1___$3_grep_word_from_fiels.coverage" NAME="3_grep_word_from_fiels Coverage Results" MODIFIED="1572422117812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER04-구조와모듈" />
     <SUITE FILE_PATH="coverage/PART1___$2_hash_and_and_eq_NO.coverage" NAME="2_hash_and_and_eq_NO Coverage Results" MODIFIED="1572428676149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER05-객체지향 설계" />
+    <SUITE FILE_PATH="coverage/PART1___$01_threading_with_queue.coverage" NAME="01_threading_with_queue Coverage Results" MODIFIED="1573300639633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER06-파이썬고급주제" />
     <SUITE FILE_PATH="coverage/PART1___$3_setdefault_example.coverage" NAME="3_setdefault_example Coverage Results" MODIFIED="1569765849869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER03-컬렉션자료구조" />
     <SUITE FILE_PATH="coverage/PART1___$2_runtime_lists_with_timeit_module.coverage" NAME="2_runtime_lists_with_timeit_module Coverage Results" MODIFIED="1569496243663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
     <SUITE FILE_PATH="coverage/PART1___$2_fib_generator.coverage" NAME="2_fib_generator Coverage Results" MODIFIED="1572421500017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER04-구조와모듈" />
     <SUITE FILE_PATH="coverage/PART1___$6_change_ext_file.coverage" NAME="6_change_ext_file Coverage Results" MODIFIED="1572423568507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER04-구조와모듈" />
+    <SUITE FILE_PATH="coverage/PART1___$3_threading_semaphore.coverage" NAME="3_threading_semaphore Coverage Results" MODIFIED="1573303441297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER06-파이썬고급주제" />
     <SUITE FILE_PATH="coverage/PART1___$7_testing_random.coverage" NAME="7_testing_random Coverage Results" MODIFIED="1569158078909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />
+    <SUITE FILE_PATH="coverage/PART1___$7_observer_pattern_with_dict.coverage" NAME="7_observer_pattern_with_dict Coverage Results" MODIFIED="1573110753119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER05-객체지향 설계" />
     <SUITE FILE_PATH="coverage/PART1___$10_combiantion.coverage" NAME="10_combiantion Coverage Results" MODIFIED="1569668081789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER02-내장시퀀스타입" />
     <SUITE FILE_PATH="coverage/PART1___$5_class_and_static_decorator.coverage" NAME="5_class_and_static_decorator Coverage Results" MODIFIED="1572593999821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER05-객체지향 설계" />
     <SUITE FILE_PATH="coverage/PART1___$12_testing_numpy.coverage" NAME="12_testing_numpy Coverage Results" MODIFIED="1569163215051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHAPTER01-숫자" />

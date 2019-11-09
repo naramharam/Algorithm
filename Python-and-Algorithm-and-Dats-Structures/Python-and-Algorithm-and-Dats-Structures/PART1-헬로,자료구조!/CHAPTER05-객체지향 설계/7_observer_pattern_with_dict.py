@@ -6,25 +6,31 @@ class SubscriberOne(object):
         print('{0}, {1}'.format(self.name, message))
 
 
+class SubscriberTwo(object):
+    def __init__(self, name):
+        self.name = name
+
+    def receive(self, message):
+        print('{0}, {1}'.format(self.name, message))
+
+
 class Publisher(object):
-    def __init__(self, events):
-        self.subscribers = {events:dict() for event in events}
+    def __init__(self):
+        self.subscribers = dict()
 
-    def get_subscribers(self, event):
-        return self.subscribers[event]
-
-    def register(self, event, who, callback=None):
+    def register(self, who, callback=None):
         if callback is None:
-            callback = getattr(who, 'update')s
-        self.get_subscribers(event)[who] = callback
+            callback = getattr(who, 'update')
+        self.subscribers[who] = callback
 
-    def dispatch(self, event, message):
-        for subscriber, callback in self.get_subscribers(event).items():
+    def unregister(self, message):
+        for subscriber, callback in self.subscribers.items():
             callback(message)
 
 
-
 if __name__ == '__main__':
-    pub = Publisher(['점심', '퇴근'])
+    pub = Publisher()
 
-    astin = Subscriber('아스')
+    astin = SubscriberOne('아스틴')
+    james = SubscriberTwo('제임스')
+    jeff = SubscriberOne('제')
